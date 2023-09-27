@@ -1,0 +1,8 @@
+.dishes{
+    background-color: rgb(255, 255, 255);
+    transition: .5s;
+}
+.dishes:hover{
+    background-color:#f5fbd5;
+    transition: .5s;
+}
